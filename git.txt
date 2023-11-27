@@ -2,3 +2,5 @@ Git is a version control system.
 Git is free software.
 
 Git.txt is modified.
+git was 1
+git is 2
